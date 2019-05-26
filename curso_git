@@ -7,3 +7,5 @@ https://medium.com/@andgomes/git-github-evitando-informar-usu%C3%A1rio-e-senha-a
 Comando para evitar digitar login e senha.
 git remote set-url origin git@github.com:
 
+Comando para atualizar o arquivo pelas alterações feitas por outros usuarios.
+git pull
