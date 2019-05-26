@@ -19,3 +19,4 @@ git branch novabranch
 
 Entrando na nova branch
 git checkout novaBranch
+
