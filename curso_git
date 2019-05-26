@@ -13,3 +13,9 @@ git pull
 
 Fish - friendly iteractive shell
 https://sempreupdate.com.br/fish-shell-instalar-no-ubuntu-debian-fedora-opensuse-no-linux/
+
+Criando nova branch
+git branch novabranch
+
+Entrando na nova branch
+git checkout novaBranch
